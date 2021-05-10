@@ -8,3 +8,4 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 Tópicos a serem abordados:
 1. Git
 2. VirtualEnv
+3. Pip
